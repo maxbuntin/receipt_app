@@ -1,4 +1,4 @@
-# flutter_simple_recipe_app
+# receipt_app
 
 A new Flutter application.
 
